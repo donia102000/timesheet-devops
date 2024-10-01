@@ -88,6 +88,6 @@ public class Contrat implements Serializable {
 		this.employe = employe;
 	}
 
-	// hi
+	// hi //
  
 }
